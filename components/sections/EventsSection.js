@@ -46,20 +46,20 @@ const EventsSection = () => {
           Nous Evenements
         </motion.h3>
         <motion.p variants={childAnimations} className="main-title-description">
-          Little Italy, plus qu'un restaurant
+          Little Italy, plus qu&apos;un restaurant
         </motion.p>
         <motion.p
           variants={childAnimations}
           className="events-description margin-top"
         >
-          <span className="bold-text">little Italy</span> n'est pas seulement un
-          endroit idéal pour le déjeuner ou dîner, mais aussi un espace idéal
-          pour une fête ou un événement spécial.
+          <span className="bold-text">little Italy</span> n&apos;est pas
+          seulement un endroit idéal pour le déjeuner ou dîner, mais aussi un
+          espace idéal pour une fête ou un événement spécial.
         </motion.p>
         <motion.p variants={childAnimations} className="events-description">
-          pour en savoir plus sur nous événements nouveaux et passés, n'hésitez
-          pas à consulter notre liste d'événements en cliquant sur le lien
-          ci-dessous.
+          pour en savoir plus sur nous événements nouveaux et passés,
+          n&apos;hésitez pas à consulter notre liste d&apos;événements en
+          cliquant sur le lien ci-dessous.
         </motion.p>
         <motion.div className="events-link">
           <Link href="/events">Voir Plus</Link>

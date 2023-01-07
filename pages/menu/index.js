@@ -12,7 +12,7 @@ import { restaurantInfo, mealsList, drinksList } from "../../utils/generalInfo";
 
 const pageTitle = `Menu - ${restaurantInfo.name}`;
 
-const menu = () => {
+const Menu = () => {
   const { query } = useRouter();
   const [food, setFood] = useState("repas");
   const [popup, setPopup] = useState({ status: null, data: null });
@@ -55,6 +55,6 @@ const menu = () => {
   );
 };
 
-export default menu;
+export default Menu;
 
 const Container = styled.div``;

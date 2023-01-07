@@ -8,7 +8,7 @@ import { restaurantInfo, eventsList } from "../../utils/generalInfo";
 
 const pageTitle = `Evenements - ${restaurantInfo.name}`;
 
-const events = () => {
+const Events = () => {
   return (
     <Container>
       <Head>
@@ -24,6 +24,6 @@ const events = () => {
   );
 };
 
-export default events;
+export default Events;
 
 const Container = styled.div``;

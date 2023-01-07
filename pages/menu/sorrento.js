@@ -9,7 +9,7 @@ import { returnDirection } from "../../utils/functions";
 
 const pageTitle = `Menu Sorrento - ${restaurantInfo.name}`;
 
-const sorrento = () => {
+const Sorrento = () => {
   return (
     <Container>
       <Head>
@@ -37,6 +37,6 @@ const sorrento = () => {
   );
 };
 
-export default sorrento;
+export default Sorrento;
 
 const Container = styled.div``;

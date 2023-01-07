@@ -12,7 +12,7 @@ import NewsLetterSection from "../components/sections/NewsLetterSection";
 
 const pageTitle = `Contact - ${restaurantInfo.name}`;
 
-const contact = () => {
+const Contact = () => {
   const [show, setShow] = useState(false);
   return (
     <Container>
@@ -50,7 +50,7 @@ const contact = () => {
   );
 };
 
-export default contact;
+export default Contact;
 
 const Container = styled.div`
   .contact-h3 {

@@ -9,7 +9,7 @@ import { restaurantInfo } from "../../utils/generalInfo";
 import BlurredImage from "../../components/elements/BlurredImage";
 import { FacebookShareButton, TwitterShareButton } from "react-share";
 
-const eventDetails = () => {
+const EventDetails = () => {
   let isMounted = true;
   const router = useRouter();
   const { slug } = router.query;
@@ -109,7 +109,7 @@ const eventDetails = () => {
   );
 };
 
-export default eventDetails;
+export default EventDetails;
 
 const Container = styled(motion.div)`
   .event-wrp {

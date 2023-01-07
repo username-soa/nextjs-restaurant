@@ -23,7 +23,7 @@ const childAnimations = {
   },
 };
 
-const error = () => {
+const Error = () => {
   const divX = useMotionValue(0);
   const divY = useMotionValue(0);
   const divSlowX = useMotionValue(0);
@@ -105,7 +105,7 @@ const error = () => {
   );
 };
 
-export default error;
+export default Error;
 
 const Container = styled.div`
   margin: 0 auto;

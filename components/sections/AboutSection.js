@@ -67,11 +67,11 @@ const AboutSection = () => {
             variants={childAnimations}
             className="about-us-description margin-top"
           >
-            Une enseigne prestigieuse, ambassadrice du goût italien s'est
+            Une enseigne prestigieuse, ambassadrice du goût italien s&apos;est
             installée à Marrakech et Agadir.{" "}
             <span className="bold-text">Little Italy </span>
-            c'est l'authenticité d'une cuisine Italienne par un grand Chef du
-            Pays.
+            c&apos;est l&apos;authenticité d&apos;une cuisine Italienne par un
+            grand Chef du Pays.
           </motion.p>
 
           <motion.h4 className="about-h5">Nous locations</motion.h4>

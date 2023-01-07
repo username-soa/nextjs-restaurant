@@ -83,19 +83,20 @@ const HeroSection = () => {
       >
         <motion.h2 variants={childAnimations} className="">
           pourquoi aller en <span className="bg-gradient">ITALIE</span>
-          <br /> quand <span className="bg-gradient">L'ITALIE</span> vient a toi
+          <br /> quand <span className="bg-gradient">L&apos;ITALIE</span> vient
+          a toi
           <span className="dot-color"> ?</span>
         </motion.h2>
         <motion.p variants={childAnimations} className="p">
-          Une enseigne prestigieuse, ambassadrice du goût italien s'est
+          Une enseigne prestigieuse, ambassadrice du goût italien s&apos;est
           installée à Marrakech et Agadir.
           <span className="bold-text"> Little Italy </span>
-          c'est l'authenticité d'une cuisine Italienne par l'un des plus grand
-          Chef du Pays.
+          c&apos;est l&apos;authenticité d&apos;une cuisine Italienne par
+          l&apos;un des plus grand Chef du Pays.
           <br /> Chez <span className="bold-text">Little Italy </span> on vous
           proposes une menu riches qui imite la cuisine italienne de la
           meilleure façon possible. consultez notre menu, et si vous avez des
-          questions, n'hésitez pas à nous contacter.
+          questions, n&apos;hésitez pas à nous contacter.
         </motion.p>
         <motion.div variants={childAnimations} className="hero-btn-container">
           <Link href={"/menu?category=repas"} className="food-menu-btn">
