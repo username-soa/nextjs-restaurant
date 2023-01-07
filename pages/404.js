@@ -73,7 +73,7 @@ const Error = () => {
           >
             <h1 className="error-h1">404</h1>
             <motion.p variants={childAnimations} className="error-p">
-              Désolé, il n'y a<br /> rien ici :(
+              Désolé, il n&apos;y a<br /> rien ici :(
             </motion.p>
             <motion.div variants={childAnimations}>
               <Link href="/" className="error-link">
