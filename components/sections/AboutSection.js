@@ -4,7 +4,7 @@ import { motion, useInView } from "framer-motion";
 import SocialLink from "../elements/SocialLink";
 import BlurredImage from "../elements/BlurredImage";
 import AdvantagesCard from "../cards/AdvantagesCard";
-import aboutImage from "../../assets/gallery/image1.PNG";
+import aboutImage from "../../assets/gallery/image1.jpg";
 import FacebookIcon from "../../assets/svg/facebook.svg";
 import InstagramIcon from "../../assets/svg/instagram.svg";
 import TripadvisorIcon from "../../assets/svg/tripadvisor.svg";

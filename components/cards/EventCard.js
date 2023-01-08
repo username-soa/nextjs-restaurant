@@ -18,6 +18,7 @@ const EventCard = ({ title, image, date, id, animations }) => {
         <Image
           fill
           src={image}
+          placeholder="blur"
           alt={`${title}-image`}
           className="image-class"
         />

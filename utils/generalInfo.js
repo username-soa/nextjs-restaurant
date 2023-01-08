@@ -1,33 +1,33 @@
-import image1 from "../assets/gallery/image1.PNG";
-import image2 from "../assets/gallery/image2.PNG";
-import image3 from "../assets/gallery/image3.PNG";
-import image4 from "../assets/gallery/image4.PNG";
-import image5 from "../assets/gallery/image5.PNG";
-import image6 from "../assets/gallery/image6.PNG";
-import image7 from "../assets/gallery/image7.PNG";
-import image8 from "../assets/gallery/image8.PNG";
+import image1 from "../assets/gallery/image1.jpg";
+import image2 from "../assets/gallery/image2.jpg";
+import image3 from "../assets/gallery/image3.jpg";
+import image4 from "../assets/gallery/image4.jpg";
+import image5 from "../assets/gallery/image5.jpg";
+import image6 from "../assets/gallery/image6.jpg";
+import image7 from "../assets/gallery/image7.jpg";
+import image8 from "../assets/gallery/image8.jpg";
 import image9 from "../assets/gallery/drinks-img.jpg";
 
 import png1 from "../assets/pngs/toque.png";
 import png2 from "../assets/pngs/dress-code.png";
 import png3 from "../assets/pngs/service-voiturier.png";
 
-import event1 from "../assets/events/events-img-1.PNG";
-import event2 from "../assets/events/events-img-2.PNG";
-import event3 from "../assets/events/events-img-3.PNG";
+import event1 from "../assets/events/events-img-1.jpg";
+import event2 from "../assets/events/events-img-2.jpg";
+import event3 from "../assets/events/events-img-3.jpg";
 
-import meal1 from "../assets/meals/antipasti-di-terra.JPG";
-import meal2 from "../assets/meals/antipasti-di-mare.JPG";
-import meal3 from "../assets/meals/insalaton.JPG";
-import meal4 from "../assets/meals/pasti.JPG";
-import meal5 from "../assets/meals/desert.JPG";
-import meal6 from "../assets/meals/gelato.JPG";
-import meal7 from "../assets/meals/pizza.JPG";
+import meal1 from "../assets/meals/antipasti-di-terra.jpg";
+import meal2 from "../assets/meals/antipasti-di-mare.jpg";
+import meal3 from "../assets/meals/insalaton.jpg";
+import meal4 from "../assets/meals/pasti.jpg";
+import meal5 from "../assets/meals/desert.jpg";
+import meal6 from "../assets/meals/gelato.jpg";
+import meal7 from "../assets/meals/pizza.jpg";
 
 import chef1 from "../assets/chefs/chef1.jpg";
 
-import location1 from "../assets/location/agadir-location.JPG";
-import location2 from "../assets/location/marrakech-location.JPG";
+import location1 from "../assets/location/agadir-location.jpg";
+import location2 from "../assets/location/marrakech-location.jpg";
 
 const restaurantInfo = {
   name: "Little Italy",

@@ -3,7 +3,7 @@ import Link from "next/link";
 import styled from "styled-components";
 import { motion, useInView } from "framer-motion";
 import BlurredImage from "../elements/BlurredImage";
-import eventsImage from "../../assets/gallery/image4.PNG";
+import eventsImage from "../../assets/gallery/image4.jpg";
 
 const parentAnimations = {
   hidden: { opacity: 0 },
